@@ -1,1 +1,2 @@
-# nestjs_crud_mysql
+# Crud NestJs Mysql
+# run: npm run start
